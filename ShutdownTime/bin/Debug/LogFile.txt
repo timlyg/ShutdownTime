@@ -1,0 +1,292 @@
+2/1/2018 12:01:20 PM: Test window service started
+2/1/2018 1:01:20 PM: Not within 9AM - 11:30AM: System remains on
+2/1/2018 2:01:20 PM: Not within 9AM - 11:30AM: System remains on
+2/1/2018 3:01:20 PM: Not within 9AM - 11:30AM: System remains on
+2/1/2018 4:01:20 PM: Not within 9AM - 11:30AM: System remains on
+2/1/2018 5:01:20 PM: Not within 9AM - 11:30AM: System remains on
+2/1/2018 6:01:20 PM: Not within 9AM - 11:30AM: System remains on
+2/1/2018 7:01:20 PM: Not within 9AM - 11:30AM: System remains on
+2/1/2018 8:01:20 PM: Not within 9AM - 11:30AM: System remains on
+2/1/2018 9:01:20 PM: Not within 9AM - 11:30AM: System remains on
+2/2/2018 12:27:26 AM: Not within 9AM - 11:30AM: System remains on
+2/2/2018 6:49:27 AM: Not within 9AM - 11:30AM: System remains on
+2/2/2018 7:49:27 AM: Not within 9AM - 11:30AM: System remains on
+2/2/2018 8:49:27 AM: Not within 9AM - 11:30AM: System remains on
+2/2/2018 9:49:27 AM: Within 9AM-11:30AM: Shutting down system now...
+2/2/2018 12:01:49 PM: Test window service started
+2/2/2018 1:01:49 PM: Not within 9AM - 11:30AM: System remains on
+2/2/2018 2:01:49 PM: Not within 9AM - 11:30AM: System remains on
+2/2/2018 3:01:49 PM: Not within 9AM - 11:30AM: System remains on
+2/2/2018 4:01:50 PM: Not within 9AM - 11:30AM: System remains on
+2/2/2018 5:01:50 PM: Not within 9AM - 11:30AM: System remains on
+2/2/2018 6:01:50 PM: Not within 9AM - 11:30AM: System remains on
+2/2/2018 7:01:50 PM: Not within 9AM - 11:30AM: System remains on
+2/2/2018 8:01:50 PM: Not within 9AM - 11:30AM: System remains on
+2/2/2018 9:01:50 PM: Not within 9AM - 11:30AM: System remains on
+2/2/2018 10:01:50 PM: Not within 9AM - 11:30AM: System remains on
+2/2/2018 11:01:51 PM: Not within 9AM - 11:30AM: System remains on
+2/5/2018 9:17:24 AM: Within 9AM-11:30AM: Shutting down system now...
+2/5/2018 11:52:20 AM: Test window service started
+2/5/2018 12:52:21 PM: Not within 9AM - 11:30AM: System remains on
+2/5/2018 1:52:21 PM: Not within 9AM - 11:30AM: System remains on
+2/5/2018 2:52:21 PM: Not within 9AM - 11:30AM: System remains on
+2/5/2018 3:52:21 PM: Not within 9AM - 11:30AM: System remains on
+2/5/2018 4:52:21 PM: Not within 9AM - 11:30AM: System remains on
+2/5/2018 5:52:21 PM: Not within 9AM - 11:30AM: System remains on
+2/5/2018 6:52:21 PM: Not within 9AM - 11:30AM: System remains on
+2/5/2018 7:52:21 PM: Not within 9AM - 11:30AM: System remains on
+2/5/2018 8:52:21 PM: Not within 9AM - 11:30AM: System remains on
+2/5/2018 9:52:21 PM: Not within 9AM - 11:30AM: System remains on
+2/5/2018 10:52:21 PM: Not within 9AM - 11:30AM: System remains on
+2/6/2018 6:42:59 AM: Not within 9AM - 11:30AM: System remains on
+2/6/2018 7:42:58 AM: Not within 9AM - 11:30AM: System remains on
+2/6/2018 8:42:58 AM: Not within 9AM - 11:30AM: System remains on
+2/6/2018 9:42:58 AM: Within 9AM-11:30AM: Shutting down system now...
+2/6/2018 11:50:12 AM: Test window service started
+2/6/2018 12:50:11 PM: Not within 9AM - 11:30AM: System remains on
+2/6/2018 1:50:11 PM: Not within 9AM - 11:30AM: System remains on
+2/6/2018 2:50:11 PM: Not within 9AM - 11:30AM: System remains on
+2/6/2018 3:50:11 PM: Not within 9AM - 11:30AM: System remains on
+2/6/2018 4:50:11 PM: Not within 9AM - 11:30AM: System remains on
+2/6/2018 5:50:12 PM: Not within 9AM - 11:30AM: System remains on
+2/6/2018 6:50:12 PM: Not within 9AM - 11:30AM: System remains on
+2/6/2018 7:50:12 PM: Not within 9AM - 11:30AM: System remains on
+2/6/2018 8:50:12 PM: Not within 9AM - 11:30AM: System remains on
+2/6/2018 9:50:12 PM: Not within 9AM - 11:30AM: System remains on
+2/6/2018 10:50:12 PM: Not within 9AM - 11:30AM: System remains on
+2/7/2018 6:53:19 AM: Not within 9AM - 11:30AM: System remains on
+2/7/2018 7:53:19 AM: Not within 9AM - 11:30AM: System remains on
+2/7/2018 8:53:19 AM: Not within 9AM - 11:30AM: System remains on
+2/7/2018 9:53:19 AM: Within 9AM-11:30AM: Shutting down system now...
+2/7/2018 12:05:50 PM: Test window service started
+2/7/2018 1:05:50 PM: Not within 9AM - 11:30AM: System remains on
+2/7/2018 2:05:50 PM: Not within 9AM - 11:30AM: System remains on
+2/7/2018 3:05:50 PM: Not within 9AM - 11:30AM: System remains on
+2/7/2018 4:05:51 PM: Not within 9AM - 11:30AM: System remains on
+2/7/2018 5:05:51 PM: Not within 9AM - 11:30AM: System remains on
+2/7/2018 6:05:51 PM: Not within 9AM - 11:30AM: System remains on
+2/7/2018 7:05:51 PM: Not within 9AM - 11:30AM: System remains on
+2/7/2018 8:05:51 PM: Not within 9AM - 11:30AM: System remains on
+2/8/2018 6:03:31 AM: Not within 9AM - 11:30AM: System remains on
+2/8/2018 7:03:31 AM: Not within 9AM - 11:30AM: System remains on
+2/8/2018 8:03:31 AM: Not within 9AM - 11:30AM: System remains on
+2/8/2018 9:03:31 AM: Within 9AM-11:30AM: Shutting down system now...
+2/8/2018 11:59:56 AM: Test window service started
+2/8/2018 12:59:56 PM: Not within 9AM - 11:30AM: System remains on
+2/8/2018 1:59:56 PM: Not within 9AM - 11:30AM: System remains on
+2/8/2018 2:59:56 PM: Not within 9AM - 11:30AM: System remains on
+2/8/2018 3:59:56 PM: Not within 9AM - 11:30AM: System remains on
+2/8/2018 4:59:56 PM: Not within 9AM - 11:30AM: System remains on
+2/8/2018 5:59:56 PM: Not within 9AM - 11:30AM: System remains on
+2/8/2018 6:59:56 PM: Not within 9AM - 11:30AM: System remains on
+2/8/2018 7:59:56 PM: Not within 9AM - 11:30AM: System remains on
+2/8/2018 8:59:56 PM: Not within 9AM - 11:30AM: System remains on
+2/8/2018 9:59:56 PM: Not within 9AM - 11:30AM: System remains on
+2/9/2018 1:16:05 AM: Not within 9AM - 11:30AM: System remains on
+2/9/2018 2:16:05 AM: Not within 9AM - 11:30AM: System remains on
+2/9/2018 6:21:31 AM: Not within 9AM - 11:30AM: System remains on
+2/9/2018 7:21:31 AM: Not within 9AM - 11:30AM: System remains on
+2/9/2018 8:21:31 AM: Not within 9AM - 11:30AM: System remains on
+2/9/2018 9:21:31 AM: Within 9AM-11:30AM: Shutting down system now...
+2/9/2018 12:03:24 PM: Test window service started
+2/9/2018 1:03:23 PM: Not within 9AM - 11:30AM: System remains on
+2/9/2018 2:03:23 PM: Not within 9AM - 11:30AM: System remains on
+2/9/2018 3:03:23 PM: Not within 9AM - 11:30AM: System remains on
+2/9/2018 4:03:23 PM: Not within 9AM - 11:30AM: System remains on
+2/9/2018 5:03:23 PM: Not within 9AM - 11:30AM: System remains on
+2/9/2018 6:03:23 PM: Not within 9AM - 11:30AM: System remains on
+2/9/2018 7:03:23 PM: Not within 9AM - 11:30AM: System remains on
+2/9/2018 8:03:23 PM: Not within 9AM - 11:30AM: System remains on
+2/9/2018 9:03:23 PM: Not within 9AM - 11:30AM: System remains on
+2/9/2018 10:03:23 PM: Not within 9AM - 11:30AM: System remains on
+2/9/2018 11:03:23 PM: Not within 9AM - 11:30AM: System remains on
+2/10/2018 12:03:23 AM: Not within 9AM - 11:30AM: System remains on
+2/10/2018 1:03:23 AM: Not within 9AM - 11:30AM: System remains on
+2/10/2018 2:03:23 AM: Not within 9AM - 11:30AM: System remains on
+2/10/2018 3:03:23 AM: Not within 9AM - 11:30AM: System remains on
+2/10/2018 4:03:23 AM: Not within 9AM - 11:30AM: System remains on
+2/10/2018 5:03:23 AM: Not within 9AM - 11:30AM: System remains on
+2/10/2018 6:03:23 AM: Not within 9AM - 11:30AM: System remains on
+2/11/2018 6:00:48 AM: Not within 9AM - 11:30AM: System remains on
+2/11/2018 7:00:48 AM: Not within 9AM - 11:30AM: System remains on
+2/11/2018 8:00:48 AM: Not within 9AM - 11:30AM: System remains on
+2/11/2018 9:00:47 AM: Within 9AM-11:30AM: Shutting down system now...
+2/12/2018 6:00:13 AM: Test window service started
+2/12/2018 7:00:12 AM: Not within 9AM - 11:30AM: System remains on
+2/12/2018 8:00:12 AM: Not within 9AM - 11:30AM: System remains on
+2/12/2018 9:00:12 AM: Within 9AM-11:30AM: Shutting down system now...
+2/12/2018 12:06:57 PM: Test window service started
+2/12/2018 1:06:57 PM: Not within 9AM - 11:30AM: System remains on
+2/12/2018 2:06:56 PM: Not within 9AM - 11:30AM: System remains on
+2/12/2018 3:06:56 PM: Not within 9AM - 11:30AM: System remains on
+2/12/2018 4:06:56 PM: Not within 9AM - 11:30AM: System remains on
+2/12/2018 5:06:56 PM: Not within 9AM - 11:30AM: System remains on
+2/12/2018 6:06:56 PM: Not within 9AM - 11:30AM: System remains on
+2/12/2018 7:06:56 PM: Not within 9AM - 11:30AM: System remains on
+2/12/2018 8:06:56 PM: Not within 9AM - 11:30AM: System remains on
+2/12/2018 9:06:56 PM: Not within 9AM - 11:30AM: System remains on
+2/13/2018 6:53:41 AM: Not within 9AM - 11:30AM: System remains on
+2/13/2018 7:53:41 AM: Not within 9AM - 11:30AM: System remains on
+2/13/2018 8:53:41 AM: Not within 9AM - 11:30AM: System remains on
+2/13/2018 9:53:41 AM: Within 9AM-11:30AM: Shutting down system now...
+2/13/2018 12:13:24 PM: Test window service started
+2/13/2018 1:13:24 PM: Not within 9AM - 11:30AM: System remains on
+2/13/2018 2:13:24 PM: Not within 9AM - 11:30AM: System remains on
+2/13/2018 3:13:24 PM: Not within 9AM - 11:30AM: System remains on
+2/13/2018 4:13:24 PM: Not within 9AM - 11:30AM: System remains on
+2/13/2018 5:13:24 PM: Not within 9AM - 11:30AM: System remains on
+2/13/2018 6:13:24 PM: Not within 9AM - 11:30AM: System remains on
+2/13/2018 7:13:24 PM: Not within 9AM - 11:30AM: System remains on
+2/13/2018 8:13:24 PM: Not within 9AM - 11:30AM: System remains on
+2/13/2018 9:13:24 PM: Not within 9AM - 11:30AM: System remains on
+2/13/2018 10:13:24 PM: Not within 9AM - 11:30AM: System remains on
+2/13/2018 11:13:24 PM: Not within 9AM - 11:30AM: System remains on
+2/14/2018 12:25:46 PM: Not within 9AM - 11:30AM: System remains on
+2/14/2018 1:25:46 PM: Not within 9AM - 11:30AM: System remains on
+2/14/2018 2:25:46 PM: Not within 9AM - 11:30AM: System remains on
+2/14/2018 3:25:46 PM: Not within 9AM - 11:30AM: System remains on
+2/14/2018 4:25:46 PM: Not within 9AM - 11:30AM: System remains on
+2/14/2018 5:25:46 PM: Not within 9AM - 11:30AM: System remains on
+2/14/2018 6:25:46 PM: Not within 9AM - 11:30AM: System remains on
+2/14/2018 7:25:46 PM: Not within 9AM - 11:30AM: System remains on
+2/14/2018 8:25:46 PM: Not within 9AM - 11:30AM: System remains on
+2/14/2018 9:25:46 PM: Not within 9AM - 11:30AM: System remains on
+2/14/2018 10:25:46 PM: Not within 9AM - 11:30AM: System remains on
+2/15/2018 6:15:07 AM: Not within 9AM - 11:30AM: System remains on
+2/15/2018 7:15:07 AM: Not within 9AM - 11:30AM: System remains on
+2/15/2018 8:15:07 AM: Not within 9AM - 11:30AM: System remains on
+2/15/2018 9:15:07 AM: Within 9AM-11:30AM: Shutting down system now...
+2/15/2018 12:04:26 PM: Test window service started
+2/15/2018 1:04:26 PM: Not within 9AM - 11:30AM: System remains on
+2/15/2018 2:04:26 PM: Not within 9AM - 11:30AM: System remains on
+2/15/2018 3:04:26 PM: Not within 9AM - 11:30AM: System remains on
+2/15/2018 4:04:26 PM: Not within 9AM - 11:30AM: System remains on
+2/15/2018 5:04:25 PM: Not within 9AM - 11:30AM: System remains on
+2/15/2018 6:04:25 PM: Not within 9AM - 11:30AM: System remains on
+2/15/2018 7:04:25 PM: Not within 9AM - 11:30AM: System remains on
+2/15/2018 8:04:25 PM: Not within 9AM - 11:30AM: System remains on
+2/15/2018 9:04:25 PM: Not within 9AM - 11:30AM: System remains on
+2/15/2018 10:04:25 PM: Not within 9AM - 11:30AM: System remains on
+2/16/2018 6:05:28 AM: Not within 9AM - 11:30AM: System remains on
+2/16/2018 7:05:28 AM: Not within 9AM - 11:30AM: System remains on
+2/16/2018 8:05:28 AM: Not within 9AM - 11:30AM: System remains on
+2/16/2018 9:05:29 AM: Within 9AM-11:30AM: Shutting down system now...
+2/16/2018 12:10:04 PM: Test window service started
+2/16/2018 1:10:04 PM: Not within 9AM - 11:30AM: System remains on
+2/16/2018 2:10:03 PM: Not within 9AM - 11:30AM: System remains on
+2/16/2018 3:10:03 PM: Not within 9AM - 11:30AM: System remains on
+2/16/2018 4:10:03 PM: Not within 9AM - 11:30AM: System remains on
+2/16/2018 5:10:03 PM: Not within 9AM - 11:30AM: System remains on
+2/16/2018 6:10:03 PM: Not within 9AM - 11:30AM: System remains on
+2/16/2018 7:10:03 PM: Not within 9AM - 11:30AM: System remains on
+2/16/2018 8:10:03 PM: Not within 9AM - 11:30AM: System remains on
+2/16/2018 9:10:03 PM: Not within 9AM - 11:30AM: System remains on
+2/16/2018 10:10:03 PM: Not within 9AM - 11:30AM: System remains on
+2/16/2018 11:10:03 PM: Not within 9AM - 11:30AM: System remains on
+2/17/2018 12:10:03 AM: Not within 9AM - 11:30AM: System remains on
+2/17/2018 1:10:03 AM: Not within 9AM - 11:30AM: System remains on
+2/17/2018 2:10:03 AM: Not within 9AM - 11:30AM: System remains on
+2/17/2018 3:10:03 AM: Not within 9AM - 11:30AM: System remains on
+2/17/2018 4:10:03 AM: Not within 9AM - 11:30AM: System remains on
+2/17/2018 5:10:03 AM: Not within 9AM - 11:30AM: System remains on
+2/17/2018 6:10:03 AM: Not within 9AM - 11:30AM: System remains on
+2/17/2018 7:10:03 AM: Not within 9AM - 11:30AM: System remains on
+2/17/2018 8:10:03 AM: Not within 9AM - 11:30AM: System remains on
+2/17/2018 9:10:03 AM: Within 9AM-11:30AM: Shutting down system now...
+2/18/2018 6:00:13 AM: Test window service started
+2/18/2018 7:00:13 AM: Not within 9AM - 11:30AM: System remains on
+2/18/2018 8:00:13 AM: Not within 9AM - 11:30AM: System remains on
+2/18/2018 9:00:13 AM: Within 9AM-11:30AM: Shutting down system now...
+2/19/2018 6:00:14 AM: Test window service started
+2/19/2018 7:00:13 AM: Not within 9AM - 11:30AM: System remains on
+2/19/2018 8:00:13 AM: Not within 9AM - 11:30AM: System remains on
+2/19/2018 9:00:13 AM: Within 9AM-11:30AM: Shutting down system now...
+2/20/2018 6:00:13 AM: Test window service started
+2/20/2018 7:00:13 AM: Not within 9AM - 11:30AM: System remains on
+2/20/2018 8:00:13 AM: Not within 9AM - 11:30AM: System remains on
+2/20/2018 9:00:13 AM: Within 9AM-11:30AM: Shutting down system now...
+2/20/2018 12:01:06 PM: Test window service started
+2/20/2018 1:01:06 PM: Not within 9AM - 11:30AM: System remains on
+2/20/2018 2:01:06 PM: Not within 9AM - 11:30AM: System remains on
+2/20/2018 3:01:06 PM: Not within 9AM - 11:30AM: System remains on
+2/20/2018 4:01:06 PM: Not within 9AM - 11:30AM: System remains on
+2/20/2018 5:01:07 PM: Not within 9AM - 11:30AM: System remains on
+2/20/2018 6:01:07 PM: Not within 9AM - 11:30AM: System remains on
+2/20/2018 7:01:07 PM: Not within 9AM - 11:30AM: System remains on
+2/20/2018 8:01:07 PM: Not within 9AM - 11:30AM: System remains on
+2/20/2018 9:01:07 PM: Not within 9AM - 11:30AM: System remains on
+2/20/2018 10:01:07 PM: Not within 9AM - 11:30AM: System remains on
+2/20/2018 11:01:07 PM: Not within 9AM - 11:30AM: System remains on
+2/21/2018 6:45:02 AM: Not within 9AM - 11:30AM: System remains on
+2/21/2018 7:45:02 AM: Not within 9AM - 11:30AM: System remains on
+2/21/2018 8:45:02 AM: Not within 9AM - 11:30AM: System remains on
+2/21/2018 9:45:02 AM: Within 9AM-11:30AM: Shutting down system now...
+2/21/2018 12:02:17 PM: Test window service started
+2/21/2018 1:02:17 PM: Not within 9AM - 11:30AM: System remains on
+2/21/2018 2:02:17 PM: Not within 9AM - 11:30AM: System remains on
+2/21/2018 3:02:18 PM: Not within 9AM - 11:30AM: System remains on
+2/21/2018 4:02:18 PM: Not within 9AM - 11:30AM: System remains on
+2/21/2018 5:02:18 PM: Not within 9AM - 11:30AM: System remains on
+2/21/2018 6:02:18 PM: Not within 9AM - 11:30AM: System remains on
+2/21/2018 7:02:18 PM: Not within 9AM - 11:30AM: System remains on
+2/21/2018 8:02:18 PM: Not within 9AM - 11:30AM: System remains on
+2/21/2018 9:02:18 PM: Not within 9AM - 11:30AM: System remains on
+2/21/2018 10:02:18 PM: Not within 9AM - 11:30AM: System remains on
+2/21/2018 11:02:18 PM: Not within 9AM - 11:30AM: System remains on
+2/22/2018 6:58:54 AM: Not within 9AM - 11:30AM: System remains on
+2/22/2018 7:58:54 AM: Not within 9AM - 11:30AM: System remains on
+2/22/2018 8:58:54 AM: Not within 9AM - 11:30AM: System remains on
+2/22/2018 9:58:54 AM: Within 9AM-11:30AM: Shutting down system now...
+2/22/2018 12:02:37 PM: Test window service started
+2/22/2018 1:02:37 PM: Not within 9AM - 11:30AM: System remains on
+2/22/2018 2:02:37 PM: Not within 9AM - 11:30AM: System remains on
+2/22/2018 3:02:37 PM: Not within 9AM - 11:30AM: System remains on
+2/22/2018 4:02:37 PM: Not within 9AM - 11:30AM: System remains on
+2/22/2018 5:02:37 PM: Not within 9AM - 11:30AM: System remains on
+2/22/2018 6:02:38 PM: Not within 9AM - 11:30AM: System remains on
+2/22/2018 7:02:38 PM: Not within 9AM - 11:30AM: System remains on
+2/22/2018 8:02:38 PM: Not within 9AM - 11:30AM: System remains on
+2/22/2018 9:02:38 PM: Not within 9AM - 11:30AM: System remains on
+2/23/2018 12:40:04 PM: Test window service started
+2/23/2018 1:40:04 PM: Not within 9AM - 11:30AM: System remains on
+2/23/2018 2:40:04 PM: Not within 9AM - 11:30AM: System remains on
+2/23/2018 3:40:04 PM: Not within 9AM - 11:30AM: System remains on
+2/23/2018 4:40:04 PM: Not within 9AM - 11:30AM: System remains on
+2/23/2018 5:40:04 PM: Not within 9AM - 11:30AM: System remains on
+2/23/2018 6:40:04 PM: Not within 9AM - 11:30AM: System remains on
+2/23/2018 7:40:04 PM: Not within 9AM - 11:30AM: System remains on
+2/23/2018 8:40:04 PM: Not within 9AM - 11:30AM: System remains on
+2/23/2018 9:40:04 PM: Not within 9AM - 11:30AM: System remains on
+2/23/2018 10:40:04 PM: Not within 9AM - 11:30AM: System remains on
+2/24/2018 6:41:57 AM: Not within 9AM - 11:30AM: System remains on
+2/24/2018 7:41:57 AM: Not within 9AM - 11:30AM: System remains on
+2/24/2018 8:41:57 AM: Not within 9AM - 11:30AM: System remains on
+2/24/2018 9:41:57 AM: Within 9AM-11:30AM: Shutting down system now...
+2/25/2018 6:00:14 AM: Test window service started
+2/25/2018 7:00:12 AM: Not within 9AM - 11:30AM: System remains on
+2/25/2018 8:00:13 AM: Not within 9AM - 11:30AM: System remains on
+2/25/2018 9:00:13 AM: Within 9AM-11:30AM: Shutting down system now...
+2/26/2018 6:00:14 AM: Test window service started
+2/26/2018 7:00:14 AM: Not within 9AM - 11:30AM: System remains on
+2/26/2018 8:00:13 AM: Not within 9AM - 11:30AM: System remains on
+2/26/2018 9:00:13 AM: Within 9AM-11:30AM: Shutting down system now...
+2/26/2018 11:59:21 AM: Test window service started
+2/26/2018 12:59:21 PM: Not within 9AM - 11:30AM: System remains on
+2/26/2018 1:59:21 PM: Not within 9AM - 11:30AM: System remains on
+2/26/2018 2:59:21 PM: Not within 9AM - 11:30AM: System remains on
+2/26/2018 3:59:21 PM: Not within 9AM - 11:30AM: System remains on
+2/26/2018 4:59:21 PM: Not within 9AM - 11:30AM: System remains on
+2/26/2018 5:59:21 PM: Not within 9AM - 11:30AM: System remains on
+2/26/2018 6:59:21 PM: Not within 9AM - 11:30AM: System remains on
+2/26/2018 7:59:21 PM: Not within 9AM - 11:30AM: System remains on
+2/26/2018 8:59:21 PM: Not within 9AM - 11:30AM: System remains on
+2/27/2018 6:31:21 AM: Not within 9AM - 11:30AM: System remains on
+2/27/2018 7:31:21 AM: Not within 9AM - 11:30AM: System remains on
+2/27/2018 8:31:21 AM: Not within 9AM - 11:30AM: System remains on
+2/27/2018 9:31:21 AM: Within 9AM-11:30AM: Shutting down system now...
+2/27/2018 11:58:46 AM: Test window service started
+2/27/2018 12:58:46 PM: Not within 9AM - 11:30AM: System remains on
+2/27/2018 1:58:46 PM: Not within 9AM - 11:30AM: System remains on
+2/27/2018 2:58:46 PM: Not within 9AM - 11:30AM: System remains on
+2/27/2018 3:58:46 PM: Not within 9AM - 11:30AM: System remains on
+2/27/2018 4:58:46 PM: Not within 9AM - 11:30AM: System remains on

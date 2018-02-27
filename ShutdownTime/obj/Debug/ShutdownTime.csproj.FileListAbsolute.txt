@@ -1,0 +1,8 @@
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe.config
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.pdb
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\obj\Debug\ShutdownTime.csprojResolveAssemblyReference.cache
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\obj\Debug\ShutdownTime.ProjectInstaller.resources
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\obj\Debug\ShutdownTime.csproj.GenerateResource.Cache
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\obj\Debug\ShutdownTime.exe
+C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\obj\Debug\ShutdownTime.pdb

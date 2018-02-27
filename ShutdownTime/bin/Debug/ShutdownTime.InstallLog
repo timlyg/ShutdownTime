@@ -1,0 +1,373 @@
+﻿Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.InstallLog
+Installing service Shutdown Time...
+Creating EventLog source Shutdown Time in log Application...
+Rolling back assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.InstallLog
+Restoring event log to previous state for source Shutdown Time.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.InstallLog
+Installing service Shutdown Time...
+Service Shutdown Time has been successfully installed.
+Creating EventLog source Shutdown Time in log Application...
+Committing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.InstallLog
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.InstallLog
+Installing service Shutdown Time...
+Creating EventLog source Shutdown Time in log Application...
+Rolling back assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.InstallLog
+Restoring event log to previous state for source Shutdown Time.
+Uninstalling assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.InstallLog
+Removing EventLog source Shutdown Time.
+Service Shutdown Time is being removed from the system...
+Service Shutdown Time was successfully removed from the system.
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Installing service Shutdown Time...
+Creating EventLog source Shutdown Time in log Application...
+Rolling back assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Restoring event log to previous state for source Shutdown Time.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Installing service Shutdown Time...
+Service Shutdown Time has been successfully installed.
+Creating EventLog source Shutdown Time in log Application...
+Committing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Uninstalling assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Removing EventLog source Shutdown Time.
+Service Shutdown Time is being removed from the system...
+Service Shutdown Time was successfully removed from the system.
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Installing service Shutdown Time...
+Service Shutdown Time has been successfully installed.
+Creating EventLog source Shutdown Time in log Application...
+Committing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Uninstalling assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Removing EventLog source Shutdown Time.
+Service Shutdown Time is being removed from the system...
+Service Shutdown Time was successfully removed from the system.
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Installing service Shutdown Time...
+Service Shutdown Time has been successfully installed.
+Creating EventLog source Shutdown Time in log Application...
+Committing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Uninstalling assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Removing EventLog source Shutdown Time.
+Service Shutdown Time is being removed from the system...
+Service Shutdown Time was successfully removed from the system.
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Installing service Shutdown Time...
+Service Shutdown Time has been successfully installed.
+Creating EventLog source Shutdown Time in log Application...
+Committing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Uninstalling assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Removing EventLog source Shutdown Time.
+Service Shutdown Time is being removed from the system...
+Service Shutdown Time was successfully removed from the system.
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Installing service Shutdown Time...
+Service Shutdown Time has been successfully installed.
+Creating EventLog source Shutdown Time in log Application...
+An exception occurred in the OnAfterInstall event handler of ShutdownTime.ProjectInstaller.
+System.InvalidOperationException: Cannot start service Shutdown Time on computer '.'.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: The service did not respond to the start or control request in a timely fashion.
+Rolling back assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Restoring event log to previous state for source Shutdown Time.
+Service Shutdown Time is being removed from the system...
+Service Shutdown Time was successfully removed from the system.
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Installing service Shutdown Time...
+Service Shutdown Time has been successfully installed.
+Creating EventLog source Shutdown Time in log Application...
+An exception occurred in the OnAfterInstall event handler of ShutdownTime.ProjectInstaller.
+System.InvalidOperationException: Cannot start service Shutdown Time on computer '.'.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: The service did not respond to the start or control request in a timely fashion.
+Rolling back assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Restoring event log to previous state for source Shutdown Time.
+Service Shutdown Time is being removed from the system...
+Service Shutdown Time was successfully removed from the system.
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Installing service Shutdown Time...
+Service Shutdown Time has been successfully installed.
+Creating EventLog source Shutdown Time in log Application...
+An exception occurred in the OnAfterInstall event handler of ShutdownTime.ProjectInstaller.
+System.InvalidOperationException: Cannot start service Shutdown Time on computer '.'.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: The service did not respond to the start or control request in a timely fashion.
+Rolling back assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Restoring event log to previous state for source Shutdown Time.
+Service Shutdown Time is being removed from the system...
+Service Shutdown Time was successfully removed from the system.
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Installing service Shutdown Time...
+Service Shutdown Time has been successfully installed.
+Creating EventLog source Shutdown Time in log Application...
+Committing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Uninstalling assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Removing EventLog source Shutdown Time.
+Service Shutdown Time is being removed from the system...
+Service Shutdown Time was successfully removed from the system.
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Installing service Shutdown Time...
+Service Shutdown Time has been successfully installed.
+Creating EventLog source Shutdown Time in log Application...
+Committing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Uninstalling assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Removing EventLog source Shutdown Time.
+Service Shutdown Time is being removed from the system...
+Service Shutdown Time was successfully removed from the system.
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Installing service Shutdown Time...
+Service Shutdown Time has been successfully installed.
+Creating EventLog source Shutdown Time in log Application...
+Committing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Uninstalling assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Removing EventLog source Shutdown Time.
+Service Shutdown Time is being removed from the system...
+Service Shutdown Time was successfully removed from the system.
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe
+Installing service Shutdown Time...
+Service Shutdown Time has been successfully installed.
+Creating EventLog source Shutdown Time in log Application...
+Committing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Installing service Shutdown Time...
+Creating EventLog source Shutdown Time in log Application...
+Rolling back assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Restoring event log to previous state for source Shutdown Time.
+Uninstalling assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Removing EventLog source Shutdown Time.
+Service Shutdown Time is being removed from the system...
+Service Shutdown Time was successfully removed from the system.
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Installing service Shutdown Time...
+Service Shutdown Time has been successfully installed.
+Creating EventLog source Shutdown Time in log Application...
+Committing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Uninstalling assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Removing EventLog source Shutdown Time.
+Service Shutdown Time is being removed from the system...
+Service Shutdown Time was successfully removed from the system.
+Attempt to stop service Shutdown Time.
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Installing service Shutdown Time...
+Service Shutdown Time has been successfully installed.
+Creating EventLog source Shutdown Time in log Application...
+Committing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Uninstalling assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Removing EventLog source Shutdown Time.
+Service Shutdown Time is being removed from the system...
+Service Shutdown Time was successfully removed from the system.
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Installing service Shutdown Time...
+Service Shutdown Time has been successfully installed.
+Creating EventLog source Shutdown Time in log Application...
+Committing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\shutdowntime.exe
+Installing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe
+Installing service Shutdown Time...
+Service Shutdown Time has been successfully installed.
+Creating EventLog source Shutdown Time in log Application...
+Committing assembly 'C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.InstallLog
+   assemblypath = C:\Users\TLaw\Documents\Visual Studio 2015\Projects\Test\ShutdownTime\ShutdownTime\bin\Debug\ShutdownTime.exe
